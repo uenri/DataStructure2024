@@ -31,7 +31,7 @@ if(bmi<27){
     console.log(resultstr[3]);
 }else if(bmi<35){
     console.log(resultstr[4]);
-}else (bmi>=35){
+}else{
     console.log(resultstr[5]);
 }
 
